@@ -1,17 +1,17 @@
 # Passo a passo para instalação do Windows 2012.
 
  ## Passo 1
- * Assim que você iniciar o seu Windows, ele ira te dar as opções de <font color="gree">***idiomas***</font> como visto na imagem a seguir:
+ * Assim que você iniciar o seu Windows, ele ira te dar as opções de <font color="gree">***"idiomas"***</font> como visto na imagem a seguir:
 
     ![alt text](./imagens/image.png)
 
 ## Passo 2
-* Após seçecionar o idioma da sua preferência, basta clicar em <font color="yellow">***Instalar agora***</font>. Caso o se Windows estiver com algum problema, é só clicar na opção <font color="yellow">***Reparar Computador***</font>, como na imagem:
+* Após seçecionar o idioma da sua preferência, basta clicar em <font color="yellow">***"Instalar agora"***</font>. Caso o se Windows estiver com algum problema, é só clicar na opção <font color="yellow">***"Reparar Computador"***</font>, como na imagem:
 
     ![alt text](./imagens/image-1.png) 
 
 ## Passo 3
-* Neste passo, você irá selecionar qual o tipo de <font color="yellow">***""sistema operacional"***</font> que deseja, como exemplo, a segunda opção da imagem (*"Windows Server 2012 R2 Standard (Servidor com GUI)"*) ela teria uma interface gráfica (**GUI**), enqunto a primeira opção seria só linhas de codigos interativos. Para melhores informações, basta ler a descrição de cada um, logo em baixo da caixa de escolha. Após isso, clique em **"Avançar"**, segue as imagens:
+* Neste passo, você irá selecionar qual o tipo de <font color="yellow">***"sistema operacional"***</font> que deseja, como exemplo, a segunda opção da imagem (*"Windows Server 2012 R2 Standard (Servidor com GUI)"*) ela teria uma interface gráfica (**GUI**), enqunto a primeira opção seria só linhas de codigos interativos. Para melhores informações, basta ler a descrição de cada um, logo em baixo da caixa de escolha. Após isso, clique em **"Avançar"**, segue as imagens:
 
     ![alt text](./imagens/image-2.png) 
 
@@ -39,7 +39,7 @@
 
     ![alt text](./imagens/image-8.png)
 
-Após aguardar, o computador será reiniciado!
+**Após aguardar, o computador será reiniciado!**
 
 ![alt text](./imagens/image-9.png)
 
